@@ -1,0 +1,88 @@
+﻿disciplina;professor;curso;inicio;fim;sala
+Lógica e Matemática Discreta;João Luciano;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 01
+Lógica e Matemática Discreta;João Luciano;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 01
+Lógica e Matemática Discreta;João Luciano;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 01
+Lógica e Matemática Discreta;João Luciano;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 01
+Desenv. WEB I;Peterson Lobato;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 04
+Desenv. WEB I;Peterson Lobato;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
+Desenv. WEB I;Peterson Lobato;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
+Desenv. WEB I;Peterson Lobato;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
+Desenv. WEB I;Peterson Lobato;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 04
+Desenv. WEB I;Peterson Lobato;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 04
+Arquitetura de Software e Pad. De Projetos;Larissa Bastos;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 08
+Arquitetura de Software e Pad. De Projetos;Larissa Bastos;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 08
+Arquitetura de Software e Pad. De Projetos;Larissa Bastos;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 08
+Arquitetura de Software e Pad. De Projetos;Larissa Bastos;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 08
+Gerência de Projetos;Carlos Eduardo;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 11
+Gerência de Projetos;Carlos Eduardo;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 11
+Gerência de Projetos;Carlos Eduardo;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 11
+Gerência de Projetos;Carlos Eduardo;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 11
+Planej. Estratégico em TI;Marcondes Dourado ;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 11
+Planej. Estratégico em TI;Marcondes Dourado ;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 11
+Prática em Desenho Geométrico;Jefferson;Licenciatura em Matemática;07:30;08:20;Sala 05
+Prática em Desenho Geométrico;Jefferson;Licenciatura em Matemática;08:20;09:10;Sala 05
+Políticas Educacionais;Mª Anunciação;Licenciatura em Matemática;09:10;10:00;Sala 05
+Políticas Educacionais;Mª Anunciação;Licenciatura em Matemática;10:00;10:50;Sala 05
+Políticas Educacionais;Mª Anunciação;Licenciatura em Matemática;10:50;11:40;Sala 05
+Educação Especial;Mª Anunciação;Licenciatura em Matemática;07:30;08:20;Sala 06
+Educação Especial;Mª Anunciação;Licenciatura em Matemática;08:20;09:10;Sala 06
+Matemática III;Hercules;Licenciatura em Matemática;09:10;10:00;Sala 06
+Matemática III;Hercules;Licenciatura em Matemática;10:00;10:50;Sala 06
+Matemática III;Hercules;Licenciatura em Matemática;10:50;11:40;Sala 06
+Matemática III;Hercules;Licenciatura em Matemática;11:40;12:30;Sala 06
+Física I;Edielma;Licenciatura em Matemática;07:30;08:20;LAB. FIS
+Física I;Edielma;Licenciatura em Matemática;08:20;09:10;LAB. FIS
+Estágio I;Daniela;Licenciatura em Matemática;09:10;10:00;Sala 10
+Estágio I;Daniela;Licenciatura em Matemática;10:00;10:50;Sala 10
+Estágio I;Daniela;Licenciatura em Matemática;10:50;11:40;Sala 10
+Estágio I;Daniela;Licenciatura em Matemática;11:40;12:30;Sala 10
+Estágio I;Daniela;Licenciatura em Matemática;13:20;14:10;Sala 10
+Análise Real I;Roque;Licenciatura em Matemática;09:10;10:00;Sala 12
+Análise Real I;Roque;Licenciatura em Matemática;10:00;10:50;Sala 12
+Estágio III;Joalisson;Licenciatura em Matemática;10:50;11:40;Sala 12
+Estágio III;Joalisson;Licenciatura em Matemática;11:40;12:30;Sala 12
+Desenho Geo. II;Jefferson;Licenciatura em Matemática;09:10;10:00;Sala 04
+Desenho Geo. II;Jefferson;Licenciatura em Matemática;10:00;10:50;Sala 04
+Didática da Matemática;MF Fátima;Licenciatura em Matemática;15:40;17:30;Sala 03
+Prática Pedagógica em Ciências;Maria;Licenciatura em Ciências Biológicas;07:30;08:20;Sala 07
+Prática Pedagógica em Ciências;Maria;Licenciatura em Ciências Biológicas;08:20;09:10;Sala 07
+Prática Pedagógica em Ciências;Maria;Licenciatura em Ciências Biológicas;09:10;10:00;Sala 07
+Prática Pedagógica em Ciências;Maria;Licenciatura em Ciências Biológicas;10:00;10:50;Sala 07
+Prática Pedagógica em Ciências;Maria;Licenciatura em Ciências Biológicas;10:50;11:40;Sala 07
+Prática Pedagógica em Ciências;Maria;Licenciatura em Ciências Biológicas;11:40;12:30;Sala 07
+Imunologia;Vera;Licenciatura em Ciências Biológicas;10:00;10:50;Lab. 02
+Imunologia;Vera;Licenciatura em Ciências Biológicas;10:50;11:40;Lab. 02
+Imunologia;Vera;Licenciatura em Ciências Biológicas;11:40;12:30;Lab. 02
+Estágio II;Nélia;Licenciatura em Ciências Biológicas;07:30;08:20;Sala 13
+Estágio II;Nélia;Licenciatura em Ciências Biológicas;08:20;09:10;Sala 13
+Estágio II;Nélia;Licenciatura em Ciências Biológicas;09:10;10:00;Sala 13
+Estágio II;Nélia;Licenciatura em Ciências Biológicas;10:00;10:50;Sala 13
+Metodologia do Trabalho Científico;Alicia;Licenciatura em Ciências Biológicas;10:00;10:50;Lab. 03
+Metodologia do Trabalho Científico;Alicia;Licenciatura em Ciências Biológicas;10:50;11:40;Lab. 03
+Metodologia do Trabalho Científico;Alicia;Licenciatura em Ciências Biológicas;11:40;12:30;Lab. 03
+Invertebrados I;Elamara;Licenciatura em Ciências Biológicas;07:30;08:20;Lab. 04
+Invertebrados I;Elamara;Licenciatura em Ciências Biológicas;08:20;09:10;Lab. 04
+Invertebrados I;Elamara;Licenciatura em Ciências Biológicas;09:10;10:00;Lab. 04
+Introdu+F10+2:23+2:2:24;Luísa;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 5
+Introdução a ESA;Luísa;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 5
+Introdução a ESA;Luísa;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 5
+Leitura e Produção de Texto;Elaine;Engenharia Sanitária e Ambiental;21:00;21:50;Sala 5
+Física I;Edelima;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 03
+Física I;Edelima;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 03
+Física I;Edelima;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 03
+Física I;Edelima;Engenharia Sanitária e Ambiental;21:00;21:50;Sala 03
+Física I;Edelima;Engenharia Sanitária e Ambiental;21:50;22:40;Sala 03
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;18:30;19:20;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;19:20;20:10;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;20:10;21:00;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;21:00;21:50;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;18:30;19:20;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;19:20;20:10;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;20:10;21:00;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;21:00;21:50;LAB II - BIO
+Geologia e Solos;Alarcon;Engenharia Sanitária e Ambiental;21:50;22:40;LAB II - BIO
+Biotecnologia;Figueroa;Engenharia Sanitária e Ambiental;18:30;19:20;SALA 11
+Biotecnologia;Figueroa;Engenharia Sanitária e Ambiental;19:20;20:10;SALA 11
+Biotecnologia;Figueroa;Engenharia Sanitária e Ambiental;20:10;21:00;SALA 11
+Biotecnologia;Figueroa;Engenharia Sanitária e Ambiental;21:00;21:50;SALA 11
+Biotecnologia;Figueroa;Engenharia Sanitária e Ambiental;21:50;22:40;SALA 11
