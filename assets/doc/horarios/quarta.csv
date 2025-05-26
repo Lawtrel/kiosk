@@ -1,4 +1,4 @@
-﻿disciplina;professor;curso;inicio;fim;sala
+﻿disciplina ;professor;curso;inicio;fim;sala
 Leitura e Produção de Textos;Erivelton Santana;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 01
 Leitura e Produção de Textos;Erivelton Santana;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 01
 Algoritmo e Lógica de Programação;Ricardo Peres;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 01
@@ -9,10 +9,10 @@ Introd. à Estrutura de Dados;Artur Kronbauer;ENGENHARIA DE SOFTWARE;07:30;08:20
 Introd. à Estrutura de Dados;Artur Kronbauer;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
 Introd. à Estrutura de Dados;Artur Kronbauer;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
 Introd. à Estrutura de Dados;Artur Kronbauer;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
-Prog.Orientada a Objetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 04
-Prog.Orientada a Objetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 04
-Prog.Orientada a Objetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;13:30;14:20;SALA 04
-Prog.Orientada a Objetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;14:20;15:10;SALA 04
+Prog.Orientada aObjetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 04
+Prog.Orientada aObjetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 04
+Prog.Orientada aObjetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;13:30;14:20;SALA 04
+Prog.Orientada aObjetos;Artur Kronbauer;ENGENHARIA DE SOFTWARE;14:20;15:10;SALA 04
 Introdução à Banco de Dados;Peterson Lobato;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 08
 Introdução à Banco de Dados;Peterson Lobato;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 08
 Introdução à Banco de Dados;Peterson Lobato;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 08
@@ -55,15 +55,10 @@ Leitura e Produção de Textos;Edson Braz;Ciências Biológicas;07:30;08:20;Sala
 Biologia Celular e Molecular;Maria Dolores;Ciências Biológicas;08:20;09:10;Sala 07
 Biologia Celular e Molecular;Maria Dolores;Ciências Biológicas;09:10;10:00;Sala 07
 Biologia Celular e Molecular;Maria Dolores;Ciências Biológicas;10:00;10:50;Sala 07
-Biologia Celular e Molecular;Maria Dolores;Ciências Biológicas;10:50;11:40;Sala 07
-Biologia Celular e Molecular;Maria Dolores;Ciências Biológicas;11:40;12:30;Sala 07
 Embriologia e Histologia;Cláudia da Silva ;Ciências Biológicas;07:30;08:20;Lab. 02
 Embriologia e Histologia;Cláudia da Silva ;Ciências Biológicas;08:20;09:10;Lab. 02
 Embriologia e Histologia;Cláudia da Silva ;Ciências Biológicas;09:10;10:00;Lab. 02
 Embriologia e Histologia;Cláudia da Silva ;Ciências Biológicas;10:00;10:50;Lab. 02
-Paleontologia;Marcia Lima;Ciências Biológicas;10:50;11:40;Lab. 02
-Paleontologia;Marcia Lima;Ciências Biológicas;11:40;12:30;Lab. 02
-Paleontologia;Marcia Lima;Ciências Biológicas;14:00;14:50;Lab. 02
 Fisiologia Animal Comparada;Edson Braz;Ciências Biológicas;10:50;11:40;Lab. 02
 Fisiologia Animal Comparada;Edson Braz;Ciências Biológicas;11:40;12:30;Lab. 02
 Estágio II;Nélia Bispo;Ciências Biológicas;15:40;16:30;Lab. 02
@@ -71,9 +66,6 @@ Estágio II;Nélia Bispo;Ciências Biológicas;16:30;17:20;Lab. 02
 Estágio II;Nélia Bispo;Ciências Biológicas;17:20;18:10;Lab. 02
 Oficina Interdisciplinar I;Marcia Lima;Ciências Biológicas;08:20;09:10;Lab. Química
 Oficina Interdisciplinar I;Marcia Lima;Ciências Biológicas;09:10;10:00;Lab. Química
-Metodologia do Trabalho Científico;Alexa de Araújo;Ciências Biológicas;10:00;10:50;Lab. Química
-Metodologia do Trabalho Científico;Alexa de Araújo;Ciências Biológicas;10:50;11:40;Lab. Química
-Metodologia do Trabalho Científico;Alexa de Araújo;Ciências Biológicas;11:40;12:30;Lab. Química
 Palinologia;Marcia Lima;Ciências Biológicas;10:50;11:40;Lab. Química
 Palinologia;Marcia Lima;Ciências Biológicas;11:40;12:30;Lab. Química
 Palinologia;Marcia Lima;Ciências Biológicas;14:00;14:50;Lab. Química
@@ -82,21 +74,11 @@ Didática em Ciências Naturais;Gracinelde;Ciências Biológicas;08:20;09:10;Sal
 Didática em Ciências Naturais;Gracinelde;Ciências Biológicas;09:10;10:00;Sala 13
 Didática em Ciências Naturais;Gracinelde;Ciências Biológicas;10:00;10:50;Sala 13
 Projeto de Pesquisa II;Alexa de Araújo;Ciências Biológicas;07:30;08:20;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;08:20;09:10;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;09:10;10:00;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;10:00;10:50;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;10:50;11:40;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;11:40;12:30;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;14:00;14:50;Lab. 03
-Estágio I;Adilva;Ciências Biológicas;14:50;15:40;Lab. 03
+Projeto de Pesquisa II;Alexa de Araújo;Ciências Biológicas;08:20;09:10;Lab. 03
 Organografia Vegetal;Alexa de Araújo;Ciências Biológicas;10:00;10:50;Lab. 03
 Organografia Vegetal;Alexa de Araújo;Ciências Biológicas;10:50;11:40;Lab. 03
 Organografia Vegetal;Alexa de Araújo;Ciências Biológicas;11:40;12:30;Lab. 03
 Cordados II;Edson Braz;Ciências Biológicas;08:20;09:10;Lab. 04
-Ecologia Ecossistemas e Paisagens;Mara;Ciências Biológicas;09:10;10:00;Lab. 04
-Ecologia Ecossistemas e Paisagens;Mara;Ciências Biológicas;10:00;10:50;Lab. 04
-Ecologia Ecossistemas e Paisagens;Mara;Ciências Biológicas;10:50;11:40;Lab. 04
-Ecologia Ecossistemas e Paisagens;Mara;Ciências Biológicas;11:40;12:30;Lab. 04
 Biologia dos Cordados;Iramaia Santana;Ciências Biológicas;14:00;14:50;Lab. 04
 Biologia dos Cordados;Iramaia Santana;Ciências Biológicas;14:50;15:40;Lab. 04
 Biologia dos Cordados;Iramaia Santana;Ciências Biológicas;15:40;16:30;Lab. 04
