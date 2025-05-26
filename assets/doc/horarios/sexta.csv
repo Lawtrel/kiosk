@@ -1,14 +1,14 @@
-﻿disciplina;professor;curso;inicio;fim;sala
+﻿disciplina ;professor;curso;inicio;fim;sala
 Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 01
 Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 01
 Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 01
 Introd. à Engenharia de Software;Larissa Bastos;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 01
 Algoritmo e Lógica de Programação;Ricardo Peres;ENGENHARIA DE SOFTWARE;10:50;11:40;SALA 01
 Algoritmo e Lógica de Programação;Ricardo Peres;ENGENHARIA DE SOFTWARE;11:40;12:30;SALA 01
-Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 04
-Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
-Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
-Modelagem de Sist. e Análise de Requisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
+Modelagem de Sist. e Análise deRequisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;07:30;08:20;SALA 04
+Modelagem de Sist. e Análise deRequisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;08:20;09:10;SALA 04
+Modelagem de Sist. e Análise deRequisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;09:10;10:00;SALA 04
+Modelagem de Sist. e Análise deRequisitos;Cleide Bittencourt;ENGENHARIA DE SOFTWARE;10:00;10:50;SALA 04
 Projeto de Pesquisa;Ricardo Peres;Sistema de Informação;09:10;10:00;SALA 11
 Projeto de Pesquisa;Ricardo Peres;Sistema de Informação;10:00;10:50;SALA 11
 Prática em Desenho Geométrico;Jefferson Correia;Matemática;07:30;08:20;Sala 05
@@ -34,26 +34,16 @@ História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biol
 História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;10:00;10:50;Sala 07
 História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;10:50;11:40;Sala 07
 História e Cultura Afro Brasileira e Indígena;Joesvandro Soares;Ciências Biológicas;11:40;12:30;Sala 07
-Bioquímica;Queires;Ciências Biológicas;08:20;09:10;Sala 07
-Bioquímica;Queires;Ciências Biológicas;09:10;10:00;Sala 07
 Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;07:30;08:20;Lab. Anatomia
 Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;08:20;09:10;Lab. Anatomia
 Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;09:10;10:00;Lab. Anatomia
 Anatomia e Fisiologia Humana;José Eduardo;Ciências Biológicas;10:00;10:50;Lab. Anatomia
-Bioética e Legislação;Evandro;Ciências Biológicas;07:30;08:20;Lab. 04
-Bioética e Legislação;Evandro;Ciências Biológicas;08:20;09:10;Lab. 04
-Bioética e Legislação;Evandro;Ciências Biológicas;09:10;10:00;Lab. 04
-Fisiologia Vegetal;Queires;Ciências Biológicas;10:00;10:50;Lab. 04
-Fisiologia Vegetal;Queires;Ciências Biológicas;10:50;11:40;Lab. 04
 Zoonoses Urbanas;José Eduardo;Ciências Biológicas;14:00;14:50;Lab. Anatomia
 Zoonoses Urbanas;José Eduardo;Ciências Biológicas;14:50;15:40;Lab. Anatomia
 Zoonoses Urbanas;José Eduardo;Ciências Biológicas;15:40;16:30;Lab. Anatomia
 Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;07:30;08:20;Sala 13
 Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;08:20;09:10;Sala 13
 Prática Pedagógica em Espaços não Escolares;Antonio Geraldo;Ciências Biológicas;09:10;10:00;Sala 13
-Genética ;Evandro;Ciências Biológicas;10:00;10:50;Sala 13
-Genética ;Evandro;Ciências Biológicas;10:50;11:40;Sala 13
-Genética ;Evandro;Ciências Biológicas;11:40;12:30;Sala 13
 PPES II;Antonio Geraldo;Ciências Biológicas;10:00;10:50;Sala 13
 PPES II;Antonio Geraldo;Ciências Biológicas;10:50;11:40;Sala 13
 PPES II;Antonio Geraldo;Ciências Biológicas;11:40;12:30;Sala 13
@@ -61,12 +51,6 @@ Fisiologia Animal Comparada;Edson Braz;Ciências Biológicas;09:10;10:00;Lab. 04
 Fisiologia Animal Comparada;Edson Braz;Ciências Biológicas;10:00;10:50;Lab. 04
 Cordados II;Edson Braz;Ciências Biológicas;10:50;11:40;Lab. 04
 Cordados II;Edson Braz;Ciências Biológicas;11:40;12:30;Lab. 04
-Estágio Supervisionado;Maria José;Ciências Biológicas;07:30;08:20;Lab. 02
-Estágio Supervisionado;Maria José;Ciências Biológicas;08:20;09:10;Lab. 02
-Estágio Supervisionado;Maria José;Ciências Biológicas;09:10;10:00;Lab. 02
-Estágio Supervisionado;Maria José;Ciências Biológicas;10:00;10:50;Lab. 02
-Estágio Supervisionado;Maria José;Ciências Biológicas;10:50;11:40;Lab. 02
-Estágio Supervisionado;Maria José;Ciências Biológicas;11:40;12:30;Lab. 02
 Leitura e Produção de Texto;Elaine Garrido;Engenharia Sanitária e Ambiental;18:30;19:20;Sala 5
 Leitura e Produção de Texto;Elaine Garrido;Engenharia Sanitária e Ambiental;19:20;20:10;Sala 5
 Leitura e Produção de Texto;Elaine Garrido;Engenharia Sanitária e Ambiental;20:10;21:00;Sala 5
